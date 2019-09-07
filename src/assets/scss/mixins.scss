@@ -1,0 +1,16 @@
+@mixin transition(){
+    -webkit-transition: all 0.3s ease;
+    -moz-transition: all 0.3s ease;
+    -o-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+}
+
+/* VARIABLES */
+
+$white: #fff;
+$black: #000;
+$blue: #4bc3c9;
+$grey: #e8ebed;
+$menu-black: #202121;
+$bg: #f4f7f6;
+$menu-border: #E6EAEA;
