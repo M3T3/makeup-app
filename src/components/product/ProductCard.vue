@@ -73,6 +73,7 @@ export default {
     &-image {
         max-width: 200px;
         max-height: 200px;
+        cursor: pointer;
     }
 
     &-info__text {
