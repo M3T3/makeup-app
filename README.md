@@ -1,8 +1,14 @@
 # makeup-app
 
-MAKE UP APP MADE IN VueJS using MAKE-UP API
+Make upp app made using the make up api
 
-## Project setup
+Built with:
+ - VueJS
+ - VueRouter
+ - Axios
+ - Bootstrap Vue
+
+## Project setup (install dependencies)
 ```
 npm install
 ```
